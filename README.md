@@ -1,4 +1,6 @@
 # NVIDIA_P106
+Link download https://www.nvidia.com/download/driverResults.aspx/138697/en-us
+
 NVIDIA P106 GPUs PLAY GAME
 ----------------------------------------
 ----------------------------------------
